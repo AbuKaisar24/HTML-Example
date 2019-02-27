@@ -1,0 +1,14 @@
+body{
+ background-color: bisque;
+}
+p{
+    color: brown;
+    text-align: center;
+    font-size: 3;
+}
+ul{
+    color: black;
+}
+ol{
+    color: blueviolet;
+}
